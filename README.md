@@ -20,10 +20,10 @@ Formatting of the code is also very limited, most important being: 25 rows per f
 | [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |
 | [Minishell](https://github.com/susikohmelo/minishell)      | Our own shell                                                             | **C** | Large  |
 | [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   | **C** | Medium |
-| [Philosophers](https://github.com/susikohmelo/philosophers)| Classic 3 philosophers problem                                            | **C** | Medium |
-| [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D model rendering                                              | **C** | Medium |
+| [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          | **C** | Medium |
+| [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |
 | [Pipex](https://github.com/susikohmelo/pipex)              | Practice for pipes & execve                                               | **C** | Small |
 | [Ft_printf](https://github.com/susikohmelo/ft_printf)      | Recreation of printf()                                                    | **C** | Small |
 | [Born2beroot](https://github.com/susikohmelo/born2beroot)  | Simple virtual machine server                                             | **C** | Small |
-| [GetNextLine](https://github.com/susikohmelo/getnextline)  | Simple function to open and read files one line at a time                 | **C** | Small |
+| [GetNextLine](https://github.com/susikohmelo/getnextline)  | Simple function to read files one line at a time                          | **C** | Small |
 | [Libft](https://github.com/susikohmelo/libft)              | Recreation of the C standard library                                      | **C** | Small |

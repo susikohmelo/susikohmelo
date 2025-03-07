@@ -20,8 +20,8 @@ Formatting of the code is also very limited, most important being: 25 rows per f
 | [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |
 | [Minishell](https://github.com/susikohmelo/minishell)      | Our own shell                                                             | **C** | Large  |
 | [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   | **C** | Medium |
-| [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          | **C** | Medium |
 | [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |
+| [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          | **C** | Medium |
 | [Pipex](https://github.com/susikohmelo/pipex)              | Practice for pipes & executing commands                                   | **C** | Small |
 | [Ft_printf](https://github.com/susikohmelo/ft_printf)      | Recreation of printf()                                                    | **C** | Small |
 | [Born2beroot](https://github.com/susikohmelo/born2beroot)  | Simple virtual machine server                                             | **C** | Small |

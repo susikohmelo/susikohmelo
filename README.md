@@ -8,8 +8,8 @@
 
 ### Projects at Hive Helsinki
 >[!NOTE]
->Hive has very specific and strict rules that you must follow. Breaking any of them means you get 0%.<br/>
-Most notably, **nearly all projects are made almost entirely from scratch,** ***not even the standard library is allowed.***
+>Hive has specific, strict rules that you must follow.<br/>
+Most notably, ***nearly all projects are made almost entirely from scratch*** - *only specific system calls are allowed and not even the standard library can be used.* These restrictions are lighter for C++ projects, but are in full force for C.
 
 Any and all functions you want to use, even the simplest ones such as strlen() you must make yourself. Only specific system calls are allowed for each project, all others being forbidden.
 

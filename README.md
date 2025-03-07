@@ -3,7 +3,7 @@
 ---
 Before Hive I **studied game programming at mediastadi**. I also **used to study art & 3D modeling**, which has come handy.
 
-**C & C++** are currently my most used languages, with low-level technical programming peaking my interest.
+**C & C++** are currently my most used languages, with low-level technical programming peaking my interest.<br/>
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/>
 ## Below is a summary of some of my projects
 ---
@@ -22,7 +22,7 @@ Formatting of the code is also very limited, most important being: 25 rows per f
 | [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   | **C** | Medium |
 | [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          | **C** | Medium |
 | [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |
-| [Pipex](https://github.com/susikohmelo/pipex)              | Practice for pipes & execve                                               | **C** | Small |
+| [Pipex](https://github.com/susikohmelo/pipex)              | Practice for pipes & executing commands                                   | **C** | Small |
 | [Ft_printf](https://github.com/susikohmelo/ft_printf)      | Recreation of printf()                                                    | **C** | Small |
 | [Born2beroot](https://github.com/susikohmelo/born2beroot)  | Simple virtual machine server                                             | **C** | Small |
 | [GetNextLine](https://github.com/susikohmelo/getnextline)  | Simple function to read files one line at a time                          | **C** | Small |

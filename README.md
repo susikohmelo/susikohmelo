@@ -3,6 +3,7 @@
 >Before Hive I studied game programming at mediastadi. I also used to study art & 3D modeling.<br/>
 >***C*** *and* ***C++*** *are currently my most used languages*, with low-level technical programming in general peaking my interest.<br/>
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/>
+
 ## Below is a summary of some of my projects
 
 ### Projects at Hive Helsinki

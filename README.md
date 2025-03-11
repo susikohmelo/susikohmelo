@@ -12,8 +12,8 @@ Most notably, **nearly all projects are made almost entirely from scratch - not 
 Formatting of the code is also very limited, most important being: 25 rows per function, 5 functions per file, 80 char row width.
 
 | Project Name  | Description | Languages | Project Size |
-| ---------- | ------------- |-------------| --------- |
-| [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |
+| ---------- | -------------- |:---------:| :----------: |
+| [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            |<img src="https://github.com/susikohmelo/FdF/blob/main/readme_files/c_icon.jpg" height="30" /> | Large  |
 | [Minishell](https://github.com/susikohmelo/minishell)      | Our very own shell                                                        | **C** | Large  |
 | [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |
 | [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   | **C** | Medium |

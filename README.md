@@ -2,7 +2,7 @@
 
 >Before Hive I studied game programming at mediastadi. I also used to study art & 3D modeling.<br/>
 >***C*** *and* ***C++*** *are currently my most used languages*.<br/>
-<img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/>
+<img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg" height="300"/>
 
 ### Projects at Hive Helsinki
 >[!NOTE]
@@ -13,18 +13,18 @@ Formatting of the code is also very limited, most important being: 25 rows per f
 
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
-| [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Large  |
-| [Minishell](https://github.com/susikohmelo/minishell)      | Our very own shell                                                        |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Large  |
-| [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Medium |
-| [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Medium |
-| [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Medium |
-| [Libft](https://github.com/susikohmelo/libft)              | Recreation of the C standard library                                      |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Small |
-| [Ft_printf](https://github.com/susikohmelo/ft_printf)      | Recreation of printf()                                                    |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Small |
-| [GetNextLine](https://github.com/susikohmelo/getnextline)  | Simple function to read files one line at a time                          |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Small |
-| [Pipex](https://github.com/susikohmelo/pipex)              | Learning about pipes & executing commands                                 |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Small |
-| C++ modules                                                | 9 practice projects for learning the fundementals of c++                  |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/cpp_icon.png" height="20"/>| Small |
-| Netpractice                                                | TCP/IP protocol & subnetting                                              |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Small |
-| Born2beroot                                                | Simple virtual machine server                                             |<img src="https://github.com/susikohmelo/susikohmelo/blob/main/readme_files/c_icon.png" height="20"/>| Small |
+| [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |
+| [Minishell](https://github.com/susikohmelo/minishell)      | Our very own shell                                                        | **C** | Large  |
+| [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |
+| [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   | **C** | Medium |
+| [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          | **C** | Medium |
+| [Libft](https://github.com/susikohmelo/libft)              | Recreation of the C standard library                                      | **C** | Small |
+| [Ft_printf](https://github.com/susikohmelo/ft_printf)      | Recreation of printf()                                                    | **C** | Small |
+| [GetNextLine](https://github.com/susikohmelo/getnextline)  | Simple function to read files one line at a time                          | **C** | Small |
+| [Pipex](https://github.com/susikohmelo/pipex)              | Learning about pipes & executing commands                                 | **C** | Small |
+| C++ modules                                                | 9 practice projects for learning the fundementals of c++                  |**C++**| Small |
+| Netpractice                                                | TCP/IP protocol & subnetting                                              | **C** | Small |
+| Born2beroot                                                | Simple virtual machine server                                             | **C** | Small |
 
 ### Hobby projects
 | Project Name  | Description | Languages | Project Size |

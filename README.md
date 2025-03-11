@@ -1,8 +1,9 @@
 ## I'm a student at [ [Hive Helsinki](https://www.hive.fi/) ] <br/> <sub> a 42 programming school founded by Supercell <sub/>
 
->Before Hive I studied game programming at mediastadi. I also used to study art & 3D modeling.<br/>
->***C*** *and* ***C++*** *are currently my most used languages*.<br/>
-<img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/>
+Before Hive I studied game programming at mediastadi. I also used to study art & 3D modeling.<br/>
+***C*** *and* ***C++*** *are currently my most used languages*.<br/>
+<img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
+<sup> One of my favourite projects, [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 
 ### Projects at Hive Helsinki
 >[!NOTE]

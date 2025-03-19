@@ -16,6 +16,7 @@ Formatting of the code is also very limited, most important being: 25 rows per f
 | ---------- | -------------- |:---------:| :----------: |
 | [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |
 | [Minishell](https://github.com/susikohmelo/minishell)      | Our very own shell                                                        | **C** | Large  |
+| Ft_irc                                                     | ***WIP!*** - IRC server compatible with official clients                  |**C++**| Large  |
 | [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |
 | [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   | **C** | Medium |
 | [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          | **C** | Medium |

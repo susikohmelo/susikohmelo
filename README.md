@@ -20,7 +20,8 @@ Formatting of the code is also very limited, most important being: 25 rows per f
 | [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |
 | [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   | **C** | Medium |
 | [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          | **C** | Medium |
-| [Libft](https://github.com/susikohmelo/libft)              | Recreation of the C standard library                                      | **C** | Small |
+| [Libft](https://github.com/susikohmelo/libft)              | Recreation of the C standard library                                      | **C** | Medium |
+| Inception                                                  | ***WIP!*** - Docker image/network practice                                |**Shell**| Medium  |
 | [Ft_printf](https://github.com/susikohmelo/ft_printf)      | Recreation of printf()                                                    | **C** | Small |
 | [GetNextLine](https://github.com/susikohmelo/getnextline)  | Simple function to read files one line at a time                          | **C** | Small |
 | [Pipex](https://github.com/susikohmelo/pipex)              | Learning about pipes & executing commands                                 | **C** | Small |

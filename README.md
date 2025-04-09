@@ -12,12 +12,12 @@ Most notably, **nearly all projects are made almost entirely from scratch - not 
 
 Formatting of the code is also very limited, most important being: 25 rows per function, 5 functions per file, 80 char row width.
 
-### Mastery Studies - ( Optional post-grad projects )
+### Mastery Studies
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
 | [KFS](https://github.com/susikohmelo/dorox-kernel)            | ***WIP!*** - Kernel entirely from scratch | **C**, **Assembly** | Very large |
 
-### Core Studies - ( Projects required to graduate )
+### Core Studies
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
 | [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |

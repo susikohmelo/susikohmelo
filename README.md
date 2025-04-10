@@ -1,21 +1,20 @@
 ## I'm a student at [ [Hive Helsinki](https://www.hive.fi/) ] <br/> <sub> a 42 programming school founded by Supercell <sub/>
 
 Before Hive I studied game programming at mediastadi. I also used to study art & 3D modeling.<br/>
-***C*** *and* ***C++*** *are currently my most used languages*.<br/>
+***C*** *&* ***C++*** *are currently my most used languages*.<br/>
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
 <sup> One of my favourite projects, [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 
 ## Projects at Hive Helsinki
 >[!NOTE]
 >Hive has specific, strict rules that you must follow.<br/><br/>
-Most notably, **nearly all projects are made almost entirely from scratch - not even the standard library can be used & only specific system calls are allowed.** These restrictions are lighter for C++ projects, but are in full force for C.
-
-Formatting of the code is also very limited, most important being: 25 rows per function, 5 functions per file, 80 char row width.
+Most notably, **If you want to use something from the C standard libary, you have to make it yourself - with exceptions depending on the project.** These restrictions are lighter for C++ projects, but are in full force for C.<br><br>
+Formatting of the code is also very limited, for example: **80 char row width, 25 rows per function, 5 functions per file.**
 
 ### Mastery Studies
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
-| [KFS](https://github.com/susikohmelo/dorox-kernel)            | ***WIP!*** - Kernel entirely from scratch | **C**, **Assembly** | Very large |
+| [KFS](https://github.com/susikohmelo/dorox-kernel)            | ***WIP!*** - Writing my own x86 OS from scratch. ( kernel, bootloader etc. ) | **C**, **Assembly** | Very large |
 
 ### Core Studies
 | Project Name  | Description | Languages | Project Size |

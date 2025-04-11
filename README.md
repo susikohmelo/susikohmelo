@@ -14,7 +14,7 @@ Formatting of the code is also very limited, for example: **80 char row width, 2
 ### Mastery Studies
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
-| [KFS](https://github.com/susikohmelo/dorox-kernel)            | ***WIP!*** - Writing my own x86 OS from scratch. ( kernel, bootloader etc. ) | **C**, **Assembly** | Very large |
+| [KFS](https://github.com/susikohmelo/DOROS)            | ***WIP!*** - Writing an intel x86 OS from scratch. ( kernel, bootloader etc. ) | **C**, **Assembly** | Very large |
 
 ### Core Studies
 | Project Name  | Description | Languages | Project Size |

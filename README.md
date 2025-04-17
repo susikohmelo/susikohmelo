@@ -14,14 +14,14 @@ Formatting of the code is also very limited, for example: **80 char row width, 2
 ### Mastery Studies
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
-| [KFS](https://github.com/susikohmelo/DOROS)            | ***WIP!*** - Writing an intel x86 OS from scratch. ( kernel, bootloader etc. ) | **C**, **Assembly** | Very large |
+| [KFS](https://github.com/susikohmelo/DOROS)            | ***WIP!*** - Writing an x86 OS from scratch. ( kernel, bootloader etc. ) | **C**, **Assembly** | Very large |
 
 ### Core Studies
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
 | [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |
 | [Minishell](https://github.com/susikohmelo/minishell)      | Our very own shell                                                        | **C** | Large  |
-| Ft_irc                                                     | ***WIP!*** - IRC server compatible with official clients                  |**C++**| Large  |
+| Ft_irc                                                     | IRC server compatible with official clients                               |**C++**| Large  |
 | [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |
 | [Push_swap](https://github.com/susikohmelo/push_swap)      | Stack sorting algorithm                                                   | **C** | Medium |
 | [Philosophers](https://github.com/susikohmelo/philosophers)| Classic shared resources problem                                          | **C** | Medium |

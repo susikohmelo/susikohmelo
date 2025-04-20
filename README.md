@@ -1,6 +1,6 @@
 ## I'm a student at [ [Hive Helsinki](https://www.hive.fi/) ] <br/> <sub> a 42 programming school founded by Supercell <sub/>
-
-Before Hive I studied game programming at mediastadi. I also used to study art & 3D modeling.<br/>
+**C**, **C++** & **Assembly** peak my interest. The closer to the hardware the closer to the heart.<br>
+That being said - I can handle higher level applications as well.
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
 <sup> One of my favourite projects, [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 

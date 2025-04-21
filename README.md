@@ -1,4 +1,4 @@
-## I'm a student at [ [Hive Helsinki](https://www.hive.fi/) ] <br/> <sub> a 42 programming school founded by Supercell <sub/>
+## I'm a student at [ [Hive Helsinki](https://www.hive.fi/) ] <br/> <sub> a 42 programming school funded by Supercell in 2018. <sub/>
 **C**, **C++** & **Assembly** peak my interest. The closer to the hardware the closer to the heart.<br>
 That being said - I can handle higher level applications as well.
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
@@ -19,7 +19,7 @@ Formatting of the code is also very limited, for example: **80 char row width, 2
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
 | [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |
-| Ft_transcendence                                           | *WIP!* A highly developed web server with real time multiplayer games            | **So many** | Large  |
+| Ft_transcendence                                           | *WIP!* Proper web server with real time multiplayer games            | **JS, C++, ...** | Large  |
 | [Minishell](https://github.com/susikohmelo/minishell)      | Our very own shell                                                        | **C** | Large  |
 | Ft_irc                                                     | IRC server compatible with official clients                               |**C++**| Large  |
 | [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |

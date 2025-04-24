@@ -1,5 +1,5 @@
 ## I'm a student at [ [Hive Helsinki](https://www.hive.fi/) ] <br/> <sub> a 42 programming school founded by Supercell in 2018. <sub/>
-**C** & **C++** are my most used languages, with a dash of (x86) **Assembly** on the side.
+**C**, **C++** & **C#** are my most used languages, with a dash of (x86) **Assembly** on the side.
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
 <sup> One of my favourite projects, [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 
@@ -18,7 +18,7 @@ Formatting of the code is also very limited, for example: **80 char row width, 2
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
 | [MiniRT](https://github.com/susikohmelo/minirt)            | High performance interactive raytracing engine                            | **C** | Large  |
-| Ft_transcendence                                           | *WIP!* Proper web server with real time multiplayer games            | **JS, C++, ...** | Large  |
+| Ft_transcendence                                           | *WIP!* Fullstack web server with real time multiplayer games            | **TS/JS, C++, ...** | Large  |
 | [Minishell](https://github.com/susikohmelo/minishell)      | Our very own shell                                                        | **C** | Large  |
 | Ft_irc                                                     | IRC server compatible with official clients                               |**C++**| Large  |
 | [FdF](https://github.com/susikohmelo/FdF)                  | Wireframe 3D                                                              | **C** | Medium |

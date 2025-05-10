@@ -37,3 +37,8 @@ Formatting of the code is also very limited, for example: **80 char row width, 2
 | Project Name  | Description | Languages | Project Size |
 | ---------- | ------------- |-------------| --------- |
 | [C++ class generator](https://github.com/susikohmelo/42_cpp_class_generator) | Tool for creating C++ classes for the 42 schools | **Shell**, **C** | Small  |
+
+<sub> Have you seen my dog? <sub/>
+<img src="https://github.com/susikohmelo/susikohmelo/blob/main/keke.jpg"/>
+
+<sup> Now you have. <sup/>

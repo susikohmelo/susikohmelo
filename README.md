@@ -5,7 +5,8 @@
 
 ## Summary of favourite projects
 >[!NOTE]
-> Click on the title names to visit the github pages.<br/>
+> All of these projects are essentially written from scratch, sometimes without even without standard libraries <br/><br/>
+Click on the title names to visit the github pages.<br/>
 [Click here to see a (nearly) full list of projects from Hive Helsinki](https://github.com/susikohmelo/hive-projects) 
 
 | Project Name  | Description | Languages | Project Size |

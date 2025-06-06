@@ -11,13 +11,13 @@ Click on the title names to visit the github pages.<br/>
 
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
-| [DOROS](https://github.com/susikohmelo/DOROS)            | Writing an x86 OS from scratch. ( kernel, bootloader etc. )                 | **C**, **Assembly** | Very large |
-| [C-Raytracer](https://github.com/susikohmelo/minirt)     | High performance interactive raytracing engine                              | **C** | Large  |
-| [C-shell](https://github.com/susikohmelo/minishell)          | Our very own shell                                                      | **C** | Large  |
-| 3D WebPong                                                    | ( WIP! ) Fullstack web server with online multiplayer pong tournaments      | **TS/JS, C++, ...** | Large  |
-| IRC server                                                 | IRC server compatible with official clients                               |**C++**| Large  |
-| [Wireframe 3D](https://github.com/susikohmelo/FdF)         | Simple wireframe 3D rendering                                             | **C** | Medium |
-| [Stack-sort](https://github.com/susikohmelo/push_swap)      | Sophisticated stack sorting algorithm                                    | **C** | Medium |
+| [DOROS](https://github.com/susikohmelo/DOROS)                 | Writing an x86 OS entirely from scratch. ( kernel, core-utils, bootloader etc. ) | **C**, **Assembly** | Very large |
+| [C-Raytracer](https://github.com/susikohmelo/minirt)          | High performance interactive raytracing engine                              | **C** | Large  |
+| [C-shell](https://github.com/susikohmelo/minishell)           | Bash-like shell for Linux                                               | **C** | Large  |
+| WebPong                                                       | ( WIP! ) Fullstack web server with online multiplayer 3D pong tournaments      | **TS/JS, C++, ...** | Large  |
+| IRC server                                                    | IRC server compatible with official clients                               |**C++**| Large  |
+| [Wireframe 3D](https://github.com/susikohmelo/FdF)            | Simple wireframe 3D rendering                                             | **C** | Medium |
+| [Stack-sort](https://github.com/susikohmelo/push_swap)        | Sophisticated stack sorting algorithm                                    | **C** | Medium |
 | [C-stdlib](https://github.com/susikohmelo/libft)              | Recreation of the C standard library                                      | **C** | Medium |
 
 <!---

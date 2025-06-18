@@ -11,7 +11,7 @@ Click on the title names to visit the github pages.<br/>
 
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
-| [DOROS](https://github.com/susikohmelo/DOROS)                 | a simple 32-bit x86 OS from true scratch. ( kernel, core-utils, bootloader etc. ) | **C**, **Assembly** | Very large |
+| [DOROS](https://github.com/susikohmelo/DOROS)                 | a simple 32-bit x86 OS fully from scratch. ( kernel, core-utils, bootloader etc. ) | **C**, **Assembly** | Very large |
 | [C-Raytracer](https://github.com/susikohmelo/minirt)          | High performance interactive raytracing engine                              | **C** | Large  |
 | [C-shell](https://github.com/susikohmelo/minishell)           | Bash-like shell for Linux                                               | **C** | Large  |
 | [WebPong](https://github.com/susikohmelo/transcendence)       | Web server with online multiplayer 3D pong tournaments + websocket terminal client      | **JS, C++, Docker ...** | Very large  |

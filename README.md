@@ -1,9 +1,9 @@
-## I'm a student at [ [Hive Helsinki](https://www.hive.fi/) ] <br/> <sub> a 42 programming school founded by Supercell in 2018. <sub/>
+## I work in integration at [Rightware](https://rightware.com) and studied at [Hive Helsinki](https://www.hive.fi/) <br/><sub> Rightware makes embedded 3D software for cars, and Hive is a quirky programming school founded by Supercell. <sub/>
 **C** & **C++** are my most used languages, with a dash of (x86) **Assembly** on the side.
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
 <sup> One of my favourite projects, [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 
-## Summary of favourite projects
+## Summary of favourite projects <br/><sub> Well, out of the ones that weren't done at work, since I can't really show those... <sub/>
 >[!NOTE]
 > All of these projects are essentially written from scratch, sometimes even without standard libraries <br/><br/>
 Click on the title names to visit the github pages.<br/>

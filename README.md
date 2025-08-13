@@ -1,4 +1,4 @@
-## I work in integration at [Rightware](https://rightware.com) and studied at [Hive Helsinki](https://www.hive.fi/) <br/><sub> Rightware makes embedded 3D software for cars, and Hive is a quirky programming school founded by Supercell. <sub/>
+## I work in integration at [Rightware](https://rightware.com) and studied at [Hive Helsinki](https://www.hive.fi/) <br/><sub> Rightware makes embedded 3D software for cars - Hive is a quirky programming school founded by Supercell. <sub/>
 **C** & **C++** are my most used languages, with a dash of (x86) **Assembly** on the side.
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
 <sup> One of my favourite projects, [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>

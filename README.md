@@ -12,13 +12,14 @@ Click on the title names to visit the github pages.<br/>
 | Project Name  | Description | Languages | Project Size |
 | ---------- | -------------- |:---------:| :----------: |
 | [DOROS](https://github.com/susikohmelo/DOROS)                 | a simple 32-bit x86 OS fully from scratch. ( kernel, core-utils, bootloader etc. ) | **C**, **Assembly** | Very large |
+| [EMMA](https://github.com/susikohmelo/emma)                   | Embedded Modular Memory Allocator (similar to new/delete/malloc) | **C++** | Small |
 | [C-Raytracer](https://github.com/susikohmelo/minirt)          | High performance interactive raytracing engine                              | **C** | Large  |
 | [C-shell](https://github.com/susikohmelo/minishell)           | Bash-like shell for Linux                                               | **C** | Large  |
 | [WebPong](https://github.com/susikohmelo/transcendence)       | Web server with online multiplayer 3D pong tournaments + websocket terminal client      | **JS, C++, Docker ...** | Very large  |
 | IRC server                                                    | IRC server compatible with official clients                               |**C++**| Large  |
 | [Wireframe 3D](https://github.com/susikohmelo/FdF)            | Simple wireframe 3D rendering                                             | **C** | Medium |
-| [Stack-sort](https://github.com/susikohmelo/push_swap)        | Sophisticated stack sorting algorithm                                    | **C** | Medium |
-| [C-stdlib](https://github.com/susikohmelo/libft)              | Recreation of the C standard library                                      | **C** | Medium |
+| [Stack-sort](https://github.com/susikohmelo/push_swap)        | Advanced stack sorting algorithm                                    | **C** | Medium |
+| [C-stdlib](https://github.com/susikohmelo/libft)              | Recreation of (some of) the C standard library                                      | **C** | Small |
 
 <!---
 ### Smaller fish

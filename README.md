@@ -12,7 +12,7 @@ Most of them were made at Hive Helsinki, [click here to see a (nearly) full list
 | [EMMA](https://github.com/susikohmelo/emma)                   | Embedded Modular Memory Allocator (similar to new/delete/malloc) | **C++** |
 | [MiniRT](https://github.com/susikohmelo/minirt)          | Interactive raytracing engine                              | **C** |
 | [Minishell](https://github.com/susikohmelo/minishell)           | Bash-like shell for Linux                                               | **C** |
-| [Super WebPong 3D](https://github.com/susikohmelo/transcendence)       | Web server with online multiplayer 3D pong tournaments + terminal client with 3D via extended ASCII      | **JS, C++, Docker ...** |
+| [Super WebPong 3D](https://github.com/susikohmelo/transcendence)       | Web server with online multiplayer 3D pong tournaments + terminal client with 3D via extended ASCII      | **JS, C++** |
 | Irkki     | IRC server compatible with official clients                               |**C++**|
 | [FdF](https://github.com/susikohmelo/FdF)            | Simple wireframe 3D renderer                                             | **C** |
 | [push_swap](https://github.com/susikohmelo/push_swap)        | Advanced stack sorting algorithm                                    | **C** |

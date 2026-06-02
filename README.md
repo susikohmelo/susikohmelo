@@ -1,5 +1,3 @@
-## I work in integration at [Rightware](https://rightware.com) and studied at [Hive Helsinki](https://www.hive.fi/) <br/><sub> Rightware makes embedded 3D software for cars - Hive is a quirky programming school founded by Supercell. <sub/>
-**C** & **C++** are my most used languages, with a dash of (x86) **Assembly** on the side.
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
 <sup> One of my favourite projects, [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 
@@ -20,21 +18,6 @@ Click on the title names to visit the github pages.<br/>
 | [Wireframe 3D](https://github.com/susikohmelo/FdF)            | Simple wireframe 3D renderer                                             | **C** |
 | [Stack-sort](https://github.com/susikohmelo/push_swap)        | Advanced stack sorting algorithm                                    | **C** |
 | [C-stdlib](https://github.com/susikohmelo/libft)              | Recreation of (some of) the C standard library                                      | **C** |
-
-<!---
-### Smaller fish
-| Project Name  | Description | Languages | Project Size |
-| ---------- | -------------- |:---------:| :----------: |
-| [Philosophers](https://github.com/susikohmelo/philosophers)   | The classic shared resources problem                                          | **C** | Medium |
-| Docker hosting                                               | Docker compose practice - setup of 3-container wide web server            |**Docker**| Medium |
-| [GetNextLine](https://github.com/susikohmelo/getnextline)    | Simple function to read files one line at a time                          | **C** | Small |
-| [Printf](https://github.com/susikohmelo/ft_printf)           | Recreation of printf()                                                    | **C** | Small |
-| [Pipe/exec practice](https://github.com/susikohmelo/pipex)   | Learning about pipes & executing commands                                 | **C** | Small |
-| C++ modules                                                | 9 practice projects for learning the fundementals of c++                  |**C++**| Small |
-| Netmasking practice                                        | TCP/IP protocol & subnetting                                              | **C** | Small |
-| VM                                                         | Simple virtual machine server                                             | **C** | Small |
-| [C++ class generator](https://github.com/susikohmelo/42_cpp_class_generator) | Tool for creating C++ classes for the 42 schools        | **Shell**, **C** | Small  |
--->
 
 <sub> Have you seen my dog? <sub/>
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/keke.jpg"/>

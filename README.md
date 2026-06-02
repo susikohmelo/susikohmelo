@@ -1,7 +1,9 @@
+Hi :raccoon:
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
 <sup> One of my favourite projects, [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 
 ## Summary of favourite projects <br/><sub> Well, out of the ones that weren't done at work, since I can't really show those... <sub/>
+
 >[!NOTE]
 > All of these projects are essentially written from scratch, sometimes even without standard libraries <br/><br/>
 Click on the title names to visit the github pages.<br/>

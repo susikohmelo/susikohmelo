@@ -3,9 +3,8 @@ Hi :raccoon:
 <sup> One of my old pet projects [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 
 ### Summary of some of my favourite projects
->[!NOTE]
-> All of these projects are essentially written from scratch, sometimes even without standard libraries <br/>
-[Click here to see a (nearly) full list of projects from Hive Helsinki](https://github.com/susikohmelo/hive-projects) 
+All of these projects are essentially from scratch, often even without standard libraries <br/>
+Most of them were made at Hive Helsinki, [click here to see a (nearly) full list of projects from there](https://github.com/susikohmelo/hive-projects) 
 
 | Project Name  | Description | Languages |
 | ---------- | -------------- |:---------:|

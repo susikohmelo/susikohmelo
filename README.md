@@ -3,7 +3,6 @@ Hi :raccoon:
 <sup> One of my old pet projects [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 
 ### Some of my favourite projects
-Nearly all of these were written from scratch, often even without standard libraries <br/>
 Most were made at Hive Helsinki, [click here to see a (nearly) full list of projects from there](https://github.com/susikohmelo/hive-projects) 
 
 | Project Name  | Description | Languages |
@@ -17,7 +16,7 @@ Most were made at Hive Helsinki, [click here to see a (nearly) full list of proj
 | [FdF](https://github.com/susikohmelo/FdF)            | Simple wireframe 3D renderer                                             | **C** |
 | [push_swap](https://github.com/susikohmelo/push_swap)        | Advanced stack sorting algorithm                                    | **C** |
 
-<sub> Have you seen my dog? <sub/>
+Have you seen my dog?
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/keke.jpg"/>
 
-<sup> Now you have. <sup/>
+Now you have.

@@ -3,6 +3,7 @@
 > LLMs are not utilized to any capacity, not even research.<br><br>
 > That being said, code written for private companies may include the use of LLMs.
 
+Hi :raccoon:
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
 <sup> One of my old pet projects [MiniRT](https://github.com/susikohmelo/minirt), displayed on CRTs <sup/>
 

@@ -1,7 +1,5 @@
-> [!NOTE]
-> **All publicly available code submitted by this account was made without any LLM involvement**.<br>
-> LLMs are not utilized to any capacity, not even research.<br><br>
-> That being said, code written for private companies may include the use of LLMs.
+**All publicly available code submitted by this account is made without any LLM involvement**, not even for research.
+<br>However, code written for private companies may include LLM usage.
 
 Hi :raccoon:
 <img src="https://github.com/susikohmelo/susikohmelo/blob/main/crt_minirt.jpg"/> 
